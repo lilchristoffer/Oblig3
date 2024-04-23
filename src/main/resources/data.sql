@@ -1,0 +1,1 @@
+INSERT INTO Bilett(film,antall,fornavn,etternavn,telefonnr,epost)VALUES('Equalizer',2,'Achilleas','Pavlovic','434534534','@sdf');
